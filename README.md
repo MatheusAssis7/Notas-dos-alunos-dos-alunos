@@ -1,2 +1,2 @@
-# Notas-dos-alunos-dos-alunos
-esse repositorio foi feito por Matheus Assis e Davi Souza (ADS)
+nesse repositorio o usuario irá inserir as notas e vereficar se foi aprovado
+
